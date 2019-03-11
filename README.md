@@ -33,8 +33,6 @@ the Roundies that it can hit, following the behaviour identified above. After
 every ‘hit’ the program should pause and identify which Roundie was hit and
 then progress following the behaviour above until all movement has stopped.
 Additional information:
-- If anything is unclear, just ask by sending a mail to arjen@tiledmedia.com or
-frits@tiledmedia.com
 - Functionality is more important than looks. Don’t spend too much time on
 making it visually appealing, it only serves to make it clear to the user what is
 happening.
